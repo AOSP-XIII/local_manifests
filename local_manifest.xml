@@ -50,9 +50,6 @@
   <remove-project name="platform/packages/apps/Settings"/>
   <project path="packages/apps/Settings" name="AOSP-XIII/packages_apps_Settings" remote="github" />
 
-  <remove-project name="platform/external/roboto-fonts"/>
-  <project path="external/roboto-fonts" name="AOSP-XIII/external_roboto-fonts" remote="github" />
-
   <remove-project name="platform/system/core"/>
   <project path="system/core" name="AOSP-XIII/system_core" remote="github" />
 
